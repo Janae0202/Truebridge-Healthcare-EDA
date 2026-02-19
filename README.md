@@ -39,4 +39,22 @@ Health systems, Medicaid programs, and public health agencies because delayed pr
 Below is the overviw page from the dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://birth-outcomes-lab.base44.app)
 
 
+![Prenatal Care Analysis](Screenshot%202026-02-18%20at%2011.26.04%20PM.png)
+
+
+### **Gestational Age and Maternal Education**
+ 
+Mean gestational age varies modestly by education level. Mothers with higher educational attainment (bachelor’s and master’s degrees) exhibit slightly longer average gestations, while lower education and “unknown/not stated” categories show shorter averages. Importantly, education alone does not fully explain observed differences, indicating the need to examine interactions with prenatal care timing and region.
+
+### **Regional Differences**
+ 
+Baseline gestational age differs across U.S. regions, with the South consistently exhibiting shorter average gestational age compared to other regions. These differences are evident even before accounting for prenatal care timing, justifying regional stratification in subsequent analyses.
+
+#### **Baseline Population Stability: Low Structural Variance Before Stratification**
+
+
+
+
+
+
 
