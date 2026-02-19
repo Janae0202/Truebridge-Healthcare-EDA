@@ -66,6 +66,80 @@ Crucially, absence of prenatal care is associated with the shortest gestational 
 
 <img width="1117" height="679" alt="image" src="https://github.com/user-attachments/assets/5ef6d640-ec6c-4cd7-86bb-b3c22794084f" />
 
+ ### **Effect Modification by Maternal Education**
+ 
+Stratified analyses reveal that the association between delayed prenatal care and gestational age varies substantially by education level:
+In several education groups, delayed care is associated with statistically significant differences in gestational age.
+
+
+One education group (high school graduate/GED) shows no significant association, highlighting heterogeneity rather than a uniform effect.
+
+
+These mixed unadjusted results reinforce the importance of multivariable modeling.
+
+
+Multivariable regression models with interaction terms confirm that maternal education significantly modifies the effect of delayed prenatal care, with delayed care associated with shorter gestational age in multiple education strata after adjustment.
+
+
+#### **Lower Education Amplifies the Association Between Delayed Care and Earlier Delivery**
+
+
+<img width="1124" height="616" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" />
+
+### **Regional Context Matters**
+After adjusting for education, delayed prenatal care is associated with shorter gestational age in every U.S. Census region. The magnitude of this effect varies:
+
+- Stronger associations in the South and Midwest
+
+
+- Attenuated effects in the West
+
+
+These findings suggest that regional healthcare infrastructure, access, and policy environments influence how prenatal care timing translates into outcomes.
+
+#### **Southern and Midwestern Regions Exhibit Stronger Negative Associations Between Delayed Care and Gestational Age**
+
+
+<img width="1121" height="662" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
+
+
+Race
+...
+
+# Recommendations
+
+- ## Policy and Practice Recommendations
+
+Healthcare systems and public health programs should:
+
+
+- **Prioritize Early Prenatal Care Outreach**
+
+Focus on lower-education mothers in the South and Midwest, where delayed care shows the strongest association with shorter gestational age.
+
+- **Develop Culturally Tailored Programs**
+
+Create prenatal outreach programs for Black mothers, particularly in regions where gestational age remains low even among college-educated individuals.
+
+- **Improve Data Completeness**
+
+Enhance maternal education and prenatal care timing data collection, as poorer outcomes among mothers with 'Unknown' education suggest missing data disproportionately represents high-risk populations.
+
+- **Conduct Mixed-Methods Studies**
+
+Investigate structural barriers (transportation, provider availability) in the South and Midwest contributing to stronger delayed-care effects.
+
+
+# Next Steps
+
+- Drive Equitable Prenatal Care Through Targeted, Evidence-Based Actions.
+
+- Combine early care prioritization, tailored outreach, data improvements, and structural reforms.
+
+- Engage policymakers, healthcare providers, and communities.
+
+- Aim for sustainable, measurable improvements in maternal and infant health.
+
 
 
 
