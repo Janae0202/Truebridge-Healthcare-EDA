@@ -9,17 +9,19 @@ Early prenatal care is often considered protective, but access and engagement va
 This project examines whether delayed prenatal care is associated with shorter gestational age — and more importantly, which populations are most affected. The goal is to provide healthcare stakeholders with clearer insight into where targeted outreach and intervention strategies may have the greatest impact.
 
 Insights and recommendations are based on the following areas
-Demographic stratification
-Effect modification
-Geographic context
-Risk interpretation
-Policy implications
-
-An interactive dashboard can be downloaded [here](https://birth-outcomes-lab.base44.app)
+- Demographic stratification
+- Effect modification
+- Geographic context
+- Risk interpretation
+- Policy implications
 
 
 
-The python code utilized to clean, organize, and prepare data for analysis can be found here
+Interactive dashboard  [here](https://birth-outcomes-lab.base44.app)
+
+
+
+Python code here
 
 
 [Download Maternity Dataset](./Extern%20Maternity%20dataset%2012-17-2025.xlsx)
