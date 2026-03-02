@@ -33,7 +33,7 @@ The slideshow presentation for this analysis can be found [here](https://docs.go
  # Data Structure
  Thee dataset used consist of 6 tables; birth record, census region, prenatal care, mother's education, mother's race, and year.
  
-<img width="885" height="570" alt="image" src="https://github.com/user-attachments/assets/f34dc937-bd62-4b23-92a8-1b93cb7d6166" />
+<img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/f34dc937-bd62-4b23-92a8-1b93cb7d6166" />
 
 Prior to the beginning of analysis, a variety of checks were conducted for quality control within the dataset. Python was utilized to inspect and control quality checks and can be found HERE.
 
@@ -50,7 +50,7 @@ Health systems, Medicaid programs, and public health agencies because delayed pr
 Below is the overviw page from the dashboard and more examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://birth-outcomes-lab.base44.app)
 
 
-![Prenatal Care Analysis](Screenshot%202026-02-18%20at%2011.26.04%20PM.png)
+<img src="Screenshot%202026-02-18%20at%2011.26.04%20PM.png" alt="Prenatal Care Analysis" width="700" />
 
 
 ### **Gestational Age and Maternal Education**
@@ -63,7 +63,8 @@ Baseline gestational age differs across U.S. regions, with the South consistentl
 
 #### **Baseline Population Stability: Low Structural Variance Before Stratification**
 
-![Mean Gestation](Screenshot%202026-02-18%20at%205.14.19%20PM.png)
+<img src="Screenshot%202026-02-18%20at%205.14.19%20PM.png" alt="Mean Gestation" width="650" />
+
 
 ## **Core Analytical Findings**
 
@@ -75,7 +76,7 @@ Crucially, absence of prenatal care is associated with the shortest gestational 
 #### **Delayed Prenatal Care Increases Birth Timing Variability Not Just Earlier Delivery**
 
 
-<img width="1117" height="679" alt="image" src="https://github.com/user-attachments/assets/5ef6d640-ec6c-4cd7-86bb-b3c22794084f" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/5ef6d640-ec6c-4cd7-86bb-b3c22794084f" />
 
  ### **Effect Modification by Maternal Education**
  
@@ -95,7 +96,7 @@ Multivariable regression models with interaction terms confirm that maternal edu
 #### **Lower Education Amplifies the Association Between Delayed Care and Earlier Delivery**
 
 
-<img width="1124" height="616" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/38368602-aab0-417d-a823-5c64e59d87f0" />
 
 ### **Regional Context Matters**
 After adjusting for education, delayed prenatal care is associated with shorter gestational age in every U.S. Census region. The magnitude of this effect varies:
@@ -111,7 +112,7 @@ These findings suggest that regional healthcare infrastructure, access, and poli
 #### **Southern and Midwestern Regions Exhibit Stronger Negative Associations Between Delayed Care and Gestational Age**
 
 
-<img width="1121" height="662" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
+<img width="650" height="650" alt="image" src="https://github.com/user-attachments/assets/d47124ec-68f6-4ccd-a21b-cbcf981b7285" />
 
 
 Race
