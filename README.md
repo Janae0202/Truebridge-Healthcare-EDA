@@ -76,7 +76,7 @@ Crucially, absence of prenatal care is associated with the shortest gestational 
 #### **Delayed Prenatal Care Increases Birth Timing Variability Not Just Earlier Delivery**
 
 
-<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/5ef6d640-ec6c-4cd7-86bb-b3c22794084f" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5ef6d640-ec6c-4cd7-86bb-b3c22794084f" />
 
  ### **Effect Modification by Maternal Education**
  
