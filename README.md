@@ -179,8 +179,8 @@ These findings suggest that regional healthcare infrastructure, access, and poli
 
 
 
-## Race
-### **Racial Stratification Shows 2.5× Stronger Delayed Care Effect Among Black Mothers**
+## Stratification by Race
+### **Black Mothers Experience 2.5× Stronger Delayed Care Effect (−0.45 wks) Compared to Asian Mothers (−0.18 wks)**
 
 <img width="550" height="550" alt="image" src="https://github.com/user-attachments/assets/dee95a55-31a5-4eed-8fe4-6061fbbe43c1" />
 
