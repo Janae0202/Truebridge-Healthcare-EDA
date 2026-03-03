@@ -21,7 +21,7 @@ Interactive dashboard  [here](https://birth-outcomes-lab.base44.app)
 
 
 
-[Python code](Python%Notebook.txt)
+[Python code](./Python%20Notebook.txt)
 
 
 [Download Maternity Dataset](./Extern%20Maternity%20dataset%2012-17-2025.xlsx)
