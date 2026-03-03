@@ -185,6 +185,14 @@ Enhance maternal education and prenatal care timing data collection, as poorer o
 
 Investigate structural barriers (transportation, provider availability) in the South and Midwest contributing to stronger delayed-care effects.
 
+These findings could inform:
+
+- Public health outreach teams
+
+-  Medicaid policy analysts
+
+-  Hospital maternal care coordinators
+
 
 # Next Steps
 
