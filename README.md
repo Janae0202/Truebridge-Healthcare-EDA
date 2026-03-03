@@ -86,9 +86,7 @@ Prior to the beginning of analysis, a variety of checks were conducted for quali
 
  # Executive Summary
 
- Overall, while average gestational age remains stable across social groups, delayed prenatal care introduces meaningful risk through increased variability especially among structurally disadvantaged populations and regions with limited healthcare access.
-Who should care and why:
-Health systems, Medicaid programs, and public health agencies because delayed prenatal care acts as an early warning signal for concentrated risk especially in underserved populations and regions with limited access to obstetric care.
+ Delayed prenatal care is associated with a median reduction of 0.2 weeks (1.4 days) in gestational age. While average birth timing remains relatively stable across demographic groups, delayed care significantly increases variability — particularly in the South and Midwest. The effect magnitude differs across racial groups, suggesting heterogeneous risk patterns. These findings indicate that delayed prenatal care functions as an early warning indicator for concentrated risk in underserved populations.
 
 The objective is to support healthcare systems and public health programs in targeting interventions where delayed prenatal care has the greatest measurable impact.
 
