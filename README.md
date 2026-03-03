@@ -71,7 +71,7 @@ Below is the overview page from the dashboard and more examples are included thr
 
 <img src="Screenshot%202026-02-18%20at%2011.26.04%20PM.png" alt="Prenatal Care Analysis" width="700" />
 
-
+# **Baseline Context Before Accounting for Prenatal Care Timing**
 ### **Gestational Age and Maternal Education**
  
 Mean gestational age varies modestly by education level. Mothers with higher educational attainment (bachelor’s and master’s degrees) exhibit slightly longer average gestations, while lower education and “unknown/not stated” categories show shorter averages. Importantly, education alone does not fully explain observed differences, indicating the need to examine interactions with prenatal care timing and region.
@@ -86,7 +86,7 @@ Baseline gestational age differs across U.S. regions, with the South consistentl
 
 
 
-## **Core Analytical Findings**
+# **Core Analytical Findings**
 
  ### **Prenatal Care Timing: Main Association**
  
