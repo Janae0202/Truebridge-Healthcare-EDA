@@ -118,7 +118,8 @@ Baseline gestational age differs across U.S. regions, with the South consistentl
  
 - In unadjusted comparisons, delayed care does not show a simple linear relationship with gestational age.
 - Some unadjusted analyses show slightly longer gestation with delayed care.
-- This reflects confounding by indication:
+  
+ This reflects confounding by indication:
 - High-risk pregnancies initiate care earlier.
 - High-risk pregnancies are more likely to deliver preterm.
 - Absence of prenatal care is associated with the shortest gestational ages across all regions.
