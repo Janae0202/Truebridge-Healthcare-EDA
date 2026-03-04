@@ -124,7 +124,7 @@ Baseline gestational age differs across U.S. regions, with the South consistentl
 - Absence of prenatal care is associated with the shortest gestational ages across all regions.
 - No prenatal care is linked to a clinically meaningful reduction of 2–3 weeks.
   
-Key Insight: The true signal emerges when accounting for effect modifiers — not from simple averages.
+Key Insight: The true difference emerges when accounting for effect modifiers not from simple averages.
 
 
 
