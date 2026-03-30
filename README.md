@@ -1,4 +1,4 @@
-# Truebridge-Healthcare-EDA
+# Trubridge-Healthcare-EDA
 As part of a maternal health analytics initiative, this analysis evaluates whether delayed prenatal care impacts gestational age and identifies which populations face the greatest risk.
 
 
